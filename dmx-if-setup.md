@@ -22,6 +22,7 @@
 
 ## 目次
 
+ - [トップページ](/readme.md)
  - [Step1 機器の確認・接続](/connect-devices.md)
  - [Step2 (QLC+)入出力の設定](/io-config-setup.md)
  - (閲覧中)Step3 (QLC+)USB-DMXの動作確認

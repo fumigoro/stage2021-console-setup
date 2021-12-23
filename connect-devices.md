@@ -44,6 +44,7 @@ USBポートが足りなければ付属したUSBハブを使用する。USB-DMX�
 
 ## 目次
 
+ - [トップページ](/readme.md)
  - （閲覧中）Step1 機器の確認・接続
  - [Step2 (QLC+)入出力の設定](/io-config-setup.md)
  - [Step3 (QLC+)USB-DMXの動作確認](/dmx-if-setup.md)
